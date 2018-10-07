@@ -2,7 +2,7 @@
 
 Fixate is a Raspberry Pi-based, remote, productivity engine that allows a Raspberry Pi to use a web browser on any device on a local network as a display.
 
-This project is being launched purely out of my desire to turn my Kindle Paperwhite into a distraction-free word processor. I am unsatisfied with the "jailbreak" options I've found (basically limited to a Raspbery Pi terminal, which is focused on different use cases than my simple desire to write fiction and non-fiction on my Kindle. But I think there's a lot of extra potential for other applications and use-cases.
+This project is being launched purely out of my desire to turn my Kindle Paperwhite into a distraction-free word processor. I am unsatisfied with the "jailbreak" options I've found -- basically limited to a Raspbery Pi terminal, which is focused on different use cases than my simple desire to write fiction and non-fiction on my Kindle. But I think there's a lot of extra potential for other applications and use-cases.
 
 The limitations of the Kindle's web browser give us some interesting perameters and we can turn its weakness into a strength for the project, since the resulting system will have to be very simple, efficient, light-weight, and portable.
 
