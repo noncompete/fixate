@@ -23,6 +23,14 @@ My current plan for the system involves:
 
 *²Eventually we may want to add remote access via the http/the internet but for my purposes local hosting will be sufficient.
 
+# STATUS --- QUESTIONS!!!
+
+I know what I want to do but I'm not at all clear on how to make it happen. How do I set up the following:
+
+I want to set up a server on my Pi that will launch immediately then launch the Typewriter app (located in the github and described below) so that I can access it in my Kindle's browser and immediately start typing.
+
+So...... How do I make this work? :) I'll keep trying to figure it out on my own but if someone could walk me through it I'd be much obliged and we can add instructions to this github so other silly ol' non-developers like me can hopefully get typin' on their Kindles right away!
+
 # future specificaitons
 
 In the future it might be cool to have the following functionality:
